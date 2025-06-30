@@ -20,3 +20,6 @@
 - O Prometheus coleta métricas expostas pelo Node Exporter, como uso de CPU, memória, espaço em disco, tempo de atividade e muito mais.
 - A interface gráfica do Prometheus (acessível via localhost:9090) permite visualizar e consultar essas métricas em tempo real.
 - Prometheus integrado ao Grafana, para dashboards interativos.
+
+## 🤵‍♂️ Autor 
+Wildi Jr.
